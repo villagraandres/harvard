@@ -1,4 +1,6 @@
-n=float(input('Type a numer '));
+n=float(input('Type a number '));
+
+
 
 
 """ In phyton is required the identation """
